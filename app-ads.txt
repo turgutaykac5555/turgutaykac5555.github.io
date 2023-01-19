@@ -1,5 +1,7 @@
 google.com, pub-5456363674858593, DIRECT, f08c47fec0942fa0
-smartadserver.com, 4194, DIRECT
+smartadserver.com, 4194-OB, RESELLER, 060d053dcf45cbf3
+
+smartadserver.com, 4194, RESELLER, 060d053dcf45cbf3
 onetag.com, 7cb86e4650f5e46, DIRECT
 onetag.com, 7cb86e4650f5e46-OB, DIRECT
 appnexus.com, 13099, RESELLER
